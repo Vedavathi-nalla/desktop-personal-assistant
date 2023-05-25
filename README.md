@@ -1,4 +1,4 @@
-# desktop-personal-assistant
+# desktop-personal-assistant(DORA)
 
 In these days, personal assistants play an important role in our daily lives. This is a result of its wide feature set and user-friendliness. Even certain repetitive duties can be automated by personal assistant, we can focus on other works. A personal assistant can perform tasks including   sending messages, taking pictures, saving to-do lists while on the go, and even accessing the Internet., opening browser, playing game, playing music, setting timer, getting location and etc.  Therefore, making use of these personal assistants features might help people save a lot of time and work.
 It can be challenging to locate the software you require, such as browsers, system applications, and other programs, when working in an unfamiliar environment. Most of the time, searching for the application takes hours.   This leads to unnecessary loss of time. Therefore, voice-controlled personal assistants can help automate this process. Users only need to give voice commands and the assistant is expected to handle the rest. This saving a lot of time.
